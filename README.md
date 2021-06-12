@@ -5,8 +5,10 @@
  - [przyklady](https://matplotlib.org/stable/gallery/index.html)
  
  <br>
+ 
  `seaborn:`
- - [str. główna] (https://seaborn.pydata.org/)
- - [tutorial] (https://seaborn.pydata.org/tutorial.html)
+ - [str. główna](https://seaborn.pydata.org/)
+ - [tutorial](https://seaborn.pydata.org/tutorial.html)
  
  <br>
+ 
