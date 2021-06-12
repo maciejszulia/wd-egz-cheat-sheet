@@ -5,6 +5,7 @@
  `matplotlib:`
  - [dokumentacja](https://matplotlib.org/stable/contents.html)
  - [przyklady](https://matplotlib.org/stable/gallery/index.html)
+ - [usage guide](https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
  
  <br>
  
