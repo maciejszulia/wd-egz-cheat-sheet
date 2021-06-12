@@ -1,3 +1,3 @@
 # wd-egz-cheat-sheet
- **LINKI**
+ **LINKI** <br>
  **MATPLOTLIB - DOKUMENTACJA(https://matplotlib.org/stable/contents.html)**
