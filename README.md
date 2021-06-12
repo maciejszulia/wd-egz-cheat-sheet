@@ -19,9 +19,7 @@
  
  #### [notatki - kolo2](https://github.com/maciejszulia/kolo2/tree/main/pythonProject7)
  <br>
- 
  #### [pr. dom](https://github.com/maciejszulia/python-uwm)
  <br>
- 
  #### [seaborn dla debili](https://www.datacamp.com/community/tutorials/seaborn-python-tutorial)
  
