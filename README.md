@@ -13,6 +13,9 @@
  `seaborn:`
  - [str. główna](https://seaborn.pydata.org/)
  - [tutorial](https://seaborn.pydata.org/tutorial.html)
+ - [sns przyklady](https://stackabuse.com/seaborn-line-plot-tutorial-and-examples)
+ - [sns wiecej przykladow](https://www.geeksforgeeks.org/python-seaborn-tutorial/)
+ - [sns introduction(**przydatne**)](https://seaborn.pydata.org/introduction.html)
  
  <br>
  
