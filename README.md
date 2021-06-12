@@ -18,4 +18,5 @@
  <br>
  
  [notatki - kolo2](https://github.com/maciejszulia/kolo2/tree/main/pythonProject7)
+ <br>
  [pr. dom](https://github.com/maciejszulia/python-uwm)
