@@ -12,3 +12,10 @@
  
  <br>
  
+ `numpy:`
+ - [dokumentacja](https://numpy.org/doc/stable/)
+ 
+ <br>
+ 
+ [notatki - kolo2](https://github.com/maciejszulia/kolo2/tree/main/pythonProject7)
+ [pr. dom](https://github.com/maciejszulia/python-uwm)
