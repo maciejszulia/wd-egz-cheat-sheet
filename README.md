@@ -29,4 +29,5 @@
  
  <br>
  
+ ## pyplot cheat-sheet
  ![-](/plt/pltcheatsheet.webp)
