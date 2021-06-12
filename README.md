@@ -1,4 +1,6 @@
 # wd-egz-cheat-sheet
+ ![-](/podstawa.png)
+ 
  ### LINKI <br>
  `matplotlib:`
  - [dokumentacja](https://matplotlib.org/stable/contents.html)
