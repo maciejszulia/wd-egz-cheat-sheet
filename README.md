@@ -16,6 +16,7 @@
  - [sns przyklady](https://stackabuse.com/seaborn-line-plot-tutorial-and-examples)
  - [sns wiecej przykladow](https://www.geeksforgeeks.org/python-seaborn-tutorial/)
  - [sns introduction(**przydatne**)](https://seaborn.pydata.org/introduction.html)
+ - [sns w3](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
  
  <br>
  
