@@ -32,6 +32,7 @@ plt.title('Tytuł4')
 plt.pie(sizes2, labels=labels2, autopct='%1.0f%%',
         shadow=False, colors=colors2)
 plt.tight_layout()
-plt.show()
 plt.savefig("wykres9.png")
+plt.show()
+
 

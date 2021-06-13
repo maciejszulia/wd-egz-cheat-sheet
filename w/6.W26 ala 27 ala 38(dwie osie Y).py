@@ -20,6 +20,6 @@ ax2.tick_params('y', colors='red')
 plt.title('Dwa wykresy')
 
 fig.tight_layout()
+plt.savefig("wykres6.png")
 plt.show()
 
-plt.savefig("wykres6.png")

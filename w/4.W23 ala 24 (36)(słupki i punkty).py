@@ -24,6 +24,6 @@ plt.plot(x2,y2, 'bs', label="opcja 2")
 plt.title("tytuł")
 plt.yticks(np.arange(-2,4.1,2))
 plt.legend(loc='center right')
+plt.savefig("wykres4.png")
 plt.show()
 
-plt.savefig("wykres4.png")

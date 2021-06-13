@@ -12,5 +12,6 @@ plt.ylabel('oś y')
 plt.xlabel('oś x')
 plt.title('Tytuł1')
 plt.text(2.34, 0.5, 'ABCD')
-plt.show()
 plt.savefig("wykres11.png")
+plt.show()
+

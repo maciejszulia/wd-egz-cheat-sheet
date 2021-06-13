@@ -15,6 +15,6 @@ plt.title('Tytuł')
 plt.xlim(-0.6, 4.6)
 plt.ylim(0, 130)
 plt.tight_layout()
+plt.savefig("wykres10.png")
 plt.show()
 
-plt.savefig("wykres10.png")
