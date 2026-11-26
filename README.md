@@ -1,4 +1,26 @@
 # wd-egz-cheat-sheet
+
+An exam cheat sheet with Python chart examples in matplotlib and seaborn, and notes on pandas and NumPy.
+
+University coursework from my Computer Science studies at UWM (2020–2024). I wrote the code by hand; the commit history is unchanged. This README was added in November 2026.
+
+Years of work: 2021 (first commit on 12 June 2021, last commit on 13 June 2021).
+
+## Contents
+
+- `w/`: 11 scripts with chart types (stacked bars, lines, two Y axes, pie charts) and their PNG output.
+- `plt/`: simple matplotlib charts and a pyplot cheat sheet image.
+- `sns/`: simple seaborn charts.
+- `notatki-2/`, `notatki-różne/`: notes as scripts (pandas, NumPy, matplotlib, seaborn).
+- `podstawa.png`: the picture at the top of the original note.
+
+## Running
+
+The scripts need matplotlib, seaborn and pandas, which this machine does not have, so I did not run them in November 2026.
+
+## Original note
+
+# wd-egz-cheat-sheet
  ![-](/podstawa.png)
  
  ### LINKI <br>
@@ -35,3 +57,7 @@
  
  ## pyplot cheat-sheet
  ![-](/plt/pltcheatsheet.webp)
+
+## Po polsku
+
+Repozytorium zawiera ściągę na egzamin z przykładami wykresów w Pythonie (matplotlib, seaborn) i notatkami o pandas i NumPy. Kod napisałem ręcznie na studiach informatycznych na UWM w 2021 roku.
